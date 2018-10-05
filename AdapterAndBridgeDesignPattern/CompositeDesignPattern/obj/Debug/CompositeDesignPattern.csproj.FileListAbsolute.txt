@@ -1,0 +1,7 @@
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe.config
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.pdb
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csprojResolveAssemblyReference.cache
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb

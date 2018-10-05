@@ -1,0 +1,9 @@
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.dll
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.xml
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
