@@ -1,7 +1,0 @@
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojResolveAssemblyReference.cache
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
-D:\TFS_sachsuraj.visualstudio.com\POCs\DesignPatterns\AdapterAndBridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
