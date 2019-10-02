@@ -1,0 +1,10 @@
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojAssemblyReference.cache
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.dll
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.xml
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CopyComplete
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
