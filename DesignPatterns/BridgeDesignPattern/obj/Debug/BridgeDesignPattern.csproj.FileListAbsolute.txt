@@ -4,3 +4,4 @@ D:\GitRepository\.NetDesignPatterns\DesignPatterns\BridgeDesignPattern\bin\Debug
 D:\GitRepository\.NetDesignPatterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
 D:\GitRepository\.NetDesignPatterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
 D:\GitRepository\.NetDesignPatterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojAssemblyReference.cache
