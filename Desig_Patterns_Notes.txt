@@ -1,0 +1,60 @@
+Design Paaterns
+Creational - Object Creation mechanisms
+Structural - Class and Object composistion
+Behavioral- Communication between objects
+
+Creational :
+Abstract Factory
+Builder
+Factroy Method
+Object Pool
+Prototype
+Singleton
+
+Structural :
+Adaptar
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+
+Behavioral :
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memonto
+Observer
+State
+Strategy
+Template Method
+Visitor
+
+
+Factory Method:
+    Defines an interface for creating an object, but let subclass decide which class to instantiate. This lets a class defer instantiation to subclasses.
+ 
+    Simple Talk:
+    => Allow programmers to request objects and have the correct type created behind the scene and returned.
+
+Abstract Factory Pattern:
+    Providing an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+    Simple Talk:
+    => Factory of other Factory.
+
+Decorator Pattern:
+    Attaches additional responsibilites to an object dynamically. Decorator provides a flexible alternative to subclassing for extending functionality.
+
+    Simple Talk:
+    => Using Composistion to limit inheritance and simplify object relationships to make them more manageable.
+    
+Iterator Pattern:
+    Provides a way to access the elements of an aggregate object sequentially without exposing it's underlying representation.
+    
+    Simple Talk:
+    => Provides a way to access and iterate through collections in the same way, regardless of type.
+ 

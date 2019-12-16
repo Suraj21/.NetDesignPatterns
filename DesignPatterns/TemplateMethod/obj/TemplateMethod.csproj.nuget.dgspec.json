@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitRepository\\.NetDesignPatterns\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj": {}
+  },
+  "projects": {
+    "D:\\GitRepository\\.NetDesignPatterns\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitRepository\\.NetDesignPatterns\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
+        "projectName": "TemplateMethod",
+        "projectPath": "D:\\GitRepository\\.NetDesignPatterns\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
+        "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
+        "outputPath": "D:\\GitRepository\\.NetDesignPatterns\\DesignPatterns\\TemplateMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

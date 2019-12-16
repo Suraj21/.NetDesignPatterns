@@ -1,6 +1,0 @@
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe.config
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.pdb
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csproj.CoreCompileInputs.cache
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
-D:\GitRepository\.NetDesignPatterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb
