@@ -20,7 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID_DesignPrinciples", "S
 		SOLID\6.1 SOLID.DIP.cs.txt.txt = SOLID\6.1 SOLID.DIP.cs.txt.txt
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prototype", "Prototype", "{761DA94E-5546-4204-84AA-8173560D15D3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prototype Design Patterns", "Prototype Design Patterns", "{761DA94E-5546-4204-84AA-8173560D15D3}"
 	ProjectSection(SolutionItems) = preProject
 		Prototype\1 Creational.Prototype.ICloneableIsBad.cs.txt.txt = Prototype\1 Creational.Prototype.ICloneableIsBad.cs.txt.txt
 		Prototype\2 Creational.Prototype.CopyConstructors.cs.txt.txt = Prototype\2 Creational.Prototype.CopyConstructors.cs.txt.txt
@@ -46,6 +46,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{FCFEAC02-A8E8-4D65-94CD-CD9FAEF498C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorDesignPattern", "VisitorDesignPattern\VisitorDesignPattern.csproj", "{C1398C0A-1245-4789-86CD-3CC317021960}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Desing Patterns", "Creational Desing Patterns", "{79192B43-8EFE-4297-A0F4-1556A94EA1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPatterns", "SingletonDesignPatterns\SingletonDesignPatterns.csproj", "{4F9B2C7F-D459-4E62-8F37-6BCA4D377235}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,17 +109,26 @@ Global
 		{C1398C0A-1245-4789-86CD-3CC317021960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1398C0A-1245-4789-86CD-3CC317021960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1398C0A-1245-4789-86CD-3CC317021960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9B2C7F-D459-4E62-8F37-6BCA4D377235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9B2C7F-D459-4E62-8F37-6BCA4D377235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9B2C7F-D459-4E62-8F37-6BCA4D377235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9B2C7F-D459-4E62-8F37-6BCA4D377235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{761DA94E-5546-4204-84AA-8173560D15D3} = {79192B43-8EFE-4297-A0F4-1556A94EA1C5}
+		{2AE06E89-C833-4070-8B3C-6B5C83B6BCAA} = {79192B43-8EFE-4297-A0F4-1556A94EA1C5}
+		{8491C89A-D581-4A1E-9D9C-1181EAA0E8C2} = {79192B43-8EFE-4297-A0F4-1556A94EA1C5}
+		{659D8E1C-2F13-4859-931C-246CB46EC184} = {79192B43-8EFE-4297-A0F4-1556A94EA1C5}
 		{C6E7F85B-CD74-4481-87E4-4FAA6D861623} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
 		{4596BF52-41C0-48B8-A6DC-9FC26E3C4B75} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
 		{42CECC52-55F6-4272-A75E-79DE59C0F5D6} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
 		{3E3ED906-6C72-4187-BB17-85EEBA246323} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
 		{FCFEAC02-A8E8-4D65-94CD-CD9FAEF498C4} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
 		{C1398C0A-1245-4789-86CD-3CC317021960} = {B7BB80AC-2E66-4E36-B9BC-5350C007F2AF}
+		{4F9B2C7F-D459-4E62-8F37-6BCA4D377235} = {79192B43-8EFE-4297-A0F4-1556A94EA1C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E8B9522-5ADA-44ED-A840-864A75CA0FD8}
