@@ -1,0 +1,11 @@
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\bin\Debug\netcoreapp2.2\VisitorDesignPattern.deps.json
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\bin\Debug\netcoreapp2.2\VisitorDesignPattern.runtimeconfig.json
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\bin\Debug\netcoreapp2.2\VisitorDesignPattern.runtimeconfig.dev.json
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\bin\Debug\netcoreapp2.2\VisitorDesignPattern.dll
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\bin\Debug\netcoreapp2.2\VisitorDesignPattern.pdb
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.csprojAssemblyReference.cache
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.AssemblyInfoInputs.cache
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.AssemblyInfo.cs
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.dll
+D:\GitRepository\.NetDesignPatterns\DesignPatterns\VisitorDesignPattern\obj\Debug\netcoreapp2.2\VisitorDesignPattern.pdb
